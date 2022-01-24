@@ -1,2 +1,2 @@
-*Items
-*Item 1
+-Items
+-Item 1
